@@ -1,9 +1,9 @@
-# SeeDance 2.5 (ByteDance) Text-To-Video Batch Generator CLI Tool
+# SeeDance 2.5 (ByteDance) — Batch Video Generator & Python CLI Tool
 
-An elegant, robust, highly-efficient Python command-line utility for batch video generation using ByteDance's modern **SeeDance 2.5** (豆包视频大模型) model. 
+[![GitHub license](https://img.shields.io/github/license/ai-models-lab/seedance-2.5)](https://github.com/ai-models-lab/seedance-2.5/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ai-models-lab/seedance-2.5)](https://github.com/ai-models-lab/seedance-2.5/stargazers)
 
-Designed for content creators, AI developers, and developers seeking automatic high-resolution video production pipelines.
-
+Welcome to the ultimate Python companion tool for **ByteDance's SeeDance 2.5** (Doubao Large Video Model). This lightweight utility enables developers and creators to run high-speed batch text-to-video and image-to-video generation pipelines using the official **Volcano Ark (火山引擎)**, **Fal.ai**, or **Replicate** hosting backends.
 ---
 
 ## 🌟 Key Features
